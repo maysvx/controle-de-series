@@ -68,5 +68,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 <p> Laravel criando uma Aplicação com MVC - Alura Cursos </p>
 <br/>
 <p align="center">
-<a href="https://cursos.alura.com.br/course/laravel-criando-aplicacao-mvc"></a>
+<a href="https://cursos.alura.com.br/course/laravel-criando-aplicacao-mvc">Clique Aqui</a>
 </p>
