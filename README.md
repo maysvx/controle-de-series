@@ -63,3 +63,10 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # controle-de-series
+## Laravel criação com MVC
+
+<p> Laravel criando uma Aplicação com MVC - Alura Cursos </p>
+<br/>
+<p align="center">
+<a href="https://cursos.alura.com.br/course/laravel-criando-aplicacao-mvc"></a>
+</p>
